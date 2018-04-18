@@ -1,0 +1,13 @@
+name: water_network
+title: water_network
+username:
+account: plantmodelling
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 203829
+bundleId: 1246402
+url: https://plantmodelling.shinyapps.io/water_network/
+when: 1519885002.75126
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData
